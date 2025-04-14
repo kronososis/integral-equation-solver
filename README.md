@@ -42,5 +42,4 @@ def plot_solution(a, b):
     plt.show()
 
 # Example usage
-plot_solution(0, 5)
-wsderf
+plot_solution(0, 5
